@@ -1,0 +1,277 @@
+[
+    {
+        "name": "Batman",
+        "real_name": "Bruce Wayne",
+        "powers": [
+            "Peak human physical condition",
+            "Master martial artist",
+            "Genius-level intellect",
+            "Expert detective"
+        ],
+        "weaknesses": [
+            "Human vulnerabilities",
+            "Emotional trauma"
+        ],
+        "affiliation": "Justice League",
+        "first_appearance": "Detective Comics #27",
+        "profile_image": "https://i.pinimg.com/474x/66/79/5f/66795f653440889334fcd276f3f4bb19.jpg",
+        "background_image": "https://i.pinimg.com/736x/99/4b/e4/994be46d7b6cf4c6a93165bd8509d8bb.jpg"
+    },
+    {
+        "name": "Iron Man",
+        "real_name": "Tony Stark",
+        "powers": [
+            "Genius-level intellect",
+            "Powered armor suit",
+            "Expert engineer and businessman"
+        ],
+        "weaknesses": [
+            "Palladium core poisoning",
+            "Overreliance on technology"
+        ],
+        "affiliation": "Avengers",
+        "first_appearance": "Tales of Suspense #39",
+        "profile_image": "https://i.pinimg.com/474x/6a/45/8c/6a458ca8b2a04d79a65bf49e6f4c7600.jpg",
+        "background_image": "https://i.pinimg.com/236x/67/d4/93/67d4932cea3f4deb9c065d28f625d63a.jpg"
+    },
+    {
+        "name": "Thor",
+        "real_name": "Thor Odinson",
+        "powers": [
+            "Superhuman strength",
+            "Control over thunder and lightning",
+            "Immortality"
+        ],
+        "weaknesses": [
+            "Pride",
+            "Overconfidence"
+        ],
+        "affiliation": "Avengers",
+        "first_appearance": "Journey into Mystery #83",
+        "profile_image": "https://i.pinimg.com/236x/d5/0a/aa/d50aaaba471b5ca8356291384d187cb4.jpg",
+        "background_image": "https://i.pinimg.com/474x/fc/c6/ba/fcc6ba0fb922770cd2992a1d2424ba7c.jpg"
+    },
+    {
+        "name": "Spider-Man",
+        "real_name": "Peter Parker",
+        "powers": [
+            "Superhuman agility and strength",
+            "Wall-crawling",
+            "Spider-sense"
+        ],
+        "weaknesses": [
+            "Personal guilt",
+            "Vulnerable to emotional distress"
+        ],
+        "affiliation": "Avengers",
+        "first_appearance": "Amazing Fantasy #15",
+        "profile_image": "https://i.pinimg.com/236x/53/5b/08/535b08b1b4bc8cbf5e9fe3a5c3e95c96.jpg",
+        "background_image": "https://i.pinimg.com/736x/db/11/0b/db110b60b80bc709fe3e22fc78e99bda.jpg"
+    },
+    {
+        "name": "Wonder Woman",
+        "real_name": "Diana Prince",
+        "powers": [
+            "Superhuman strength and agility",
+            "Flight",
+            "Combat skills"
+        ],
+        "weaknesses": [
+            "Lack of experience in modern world",
+            "Emotional connections"
+        ],
+        "affiliation": "Justice League",
+        "first_appearance": "All Star Comics #8",
+        "profile_image": "https://i.pinimg.com/236x/49/84/93/498493a8165527f2f8a567dd478e265c.jpg",
+        "background_image": "https://i.pinimg.com/236x/aa/ae/21/aaae21d06f609031136145da89ee8eb9.jpg"
+    },
+    {
+        "name": "Captain America",
+        "real_name": "Steve Rogers",
+        "powers": [
+            "Super-soldier serum enhancements",
+            "Master tactician",
+            "Shield-wielding skills"
+        ],
+        "weaknesses": [
+            "Mortal vulnerabilities",
+            "Emotional attachment to past"
+        ],
+        "affiliation": "Avengers",
+        "first_appearance": "Captain America Comics #1",
+        "profile_image": "https://i.pinimg.com/236x/e8/74/a2/e874a28b212de744bea1fe84748b3205.jpg",
+        "background_image": "https://i.pinimg.com/236x/a9/5b/e2/a95be24fa05592a3653ed81cf0607efa.jpg"
+    },
+    {
+        "name": "Black Panther",
+        "real_name": "T'Challa",
+        "powers": [
+            "Enhanced strength and agility",
+            "Vibranium suit",
+            "Expert strategist"
+        ],
+        "weaknesses": [
+            "Mortal vulnerabilities",
+            "Loyalty to Wakanda above all"
+        ],
+        "affiliation": "Avengers",
+        "first_appearance": "Fantastic Four #52",
+        "profile_image": "https://i.pinimg.com/236x/78/e1/c8/78e1c86d34ba112fcd1065cf71117a6b.jpg",
+        "background_image": "https://i.pinimg.com/236x/fc/11/18/fc11185b10f8ae1ac0b41b909d45fcac.jpg"
+    },
+    {
+        "name": "The Flash",
+        "real_name": "Barry Allen",
+        "powers": [
+            "Super speed",
+            "Time travel",
+            "Enhanced reflexes"
+        ],
+        "weaknesses": [
+            "Connection to Speed Force",
+            "Overconfidence"
+        ],
+        "affiliation": "Justice League",
+        "first_appearance": "Showcase #4",
+        "profile_image": "https://i.pinimg.com/236x/0a/e0/a0/0ae0a0f6b8abfd380b6da3f4178db8e6.jpg",
+        "background_image": "https://i.pinimg.com/236x/61/20/93/612093bb01ecd932d34e84abbf4f0195.jpg"
+    },
+    {
+        "name": "Green Lantern",
+        "real_name": "Hal Jordan",
+        "powers": [
+            "Power ring capabilities",
+            "Energy projection",
+            "Flight"
+        ],
+        "weaknesses": [
+            "Limited by willpower",
+            "Yellow impurity (classic)"
+        ],
+        "affiliation": "Justice League",
+        "first_appearance": "All-American Comics #16",
+        "profile_image": "https://i.pinimg.com/474x/fa/af/ab/faafaba10967c437fcd70786a258799c.jpg",
+        "background_image": "https://i.pinimg.com/236x/99/38/92/993892d770c8aac4087ed69e690cca7e.jpg"
+    },
+    {
+        "name": "Hulk",
+        "real_name": "Bruce Banner",
+        "powers": [
+            "Superhuman strength",
+            "Regeneration",
+            "Resistance to injury"
+        ],
+        "weaknesses": [
+            "Emotional triggers",
+            "Lack of control"
+        ],
+        "affiliation": "Avengers",
+        "first_appearance": "The Incredible Hulk #1",
+        "profile_image": "https://i.pinimg.com/236x/20/de/df/20dedfabd1e59492d401a770765b17b2.jpg",
+        "background_image": "https://i.pinimg.com/236x/ae/22/0f/ae220fdb0942a1e62a76880feb9df50c.jpg"
+    },
+    {
+        "name": "Superman",
+        "real_name": "Clark Kent",
+        "powers": [
+            "Superhuman strength and speed",
+            "Flight",
+            "Heat vision",
+            "X-ray vision",
+            "Invulnerability"
+        ],
+        "weaknesses": [
+            "Kryptonite",
+            "Magic"
+        ],
+        "affiliation": "Justice League",
+        "first_appearance": "Action Comics #1",
+        "profile_image": "https://i.pinimg.com/236x/a4/84/48/a4844816aa0db4ba705c2878bb7b2168.jpg",
+        "background_image": "https://i.pinimg.com/236x/77/cd/b6/77cdb6414efadddab557f7b758a0abd0.jpg"
+    },
+    {
+        "name": "Aquaman",
+        "real_name": "Arthur Curry",
+        "powers": [
+            "Superhuman strength",
+            "Control over marine life",
+            "Ability to breathe underwater"
+        ],
+        "weaknesses": [
+            "Limited mobility on land",
+            "Dehydration"
+        ],
+        "affiliation": "Justice League",
+        "first_appearance": "More Fun Comics #73",
+        "profile_image": "https://i.pinimg.com/474x/69/06/f6/6906f65269b7c303c859d1321f13af86.jpg",
+        "background_image": "https://i.pinimg.com/236x/35/c0/31/35c031b4912442787f4ff6c85e55f217.jpg"
+    },
+    {
+        "name": "Hawkeye",
+        "real_name": "Clint Barton",
+        "powers": [
+            "Master archer",
+            "Expert tactician",
+            "Peak human condition"
+        ],
+        "weaknesses": [
+            "Human vulnerabilities",
+            "Limited ammunition"
+        ],
+        "affiliation": "Avengers",
+        "first_appearance": "Tales of Suspense #57",
+        "profile_image": "https://i.pinimg.com/236x/af/6a/58/af6a58b56e8f126bbdb301a74ef78ddf.jpg",
+        "background_image": "https://i.pinimg.com/236x/c6/14/8a/c6148a4fe2e37ad4d7f7351f14d959d5.jpg"
+    },
+    {
+        "name": "Black Widow",
+        "real_name": "Natasha Romanoff",
+        "powers": [
+            "Expert martial artist",
+            "Master spy",
+            "Peak human agility"
+        ],
+        "weaknesses": [
+            "Human vulnerabilities",
+            "Trust issues"
+        ],
+        "affiliation": "Avengers",
+        "first_appearance": "Tales of Suspense #52",
+        "profile_image": "https://i.pinimg.com/236x/cc/c0/38/ccc038ece5387b9e36a06d5c86392678.jpg",
+        "background_image": "https://i.pinimg.com/236x/da/06/3e/da063ecce3b40645a6dea39790bb2a43.jpg"
+    },
+    {
+        "name": "Doctor Strange",
+        "real_name": "Stephen Strange",
+        "powers": [
+            "Mastery of mystical arts",
+            "Time manipulation",
+            "Energy projection"
+        ],
+        "weaknesses": [
+            "Reliance on magical artifacts",
+            "Human vulnerabilities"
+        ],
+        "affiliation": "Avengers",
+        "first_appearance": "Strange Tales #110",
+        "profile_image": "https://i.pinimg.com/236x/6d/68/a5/6d68a50c852e520e3d4441b11fd2ffb9.jpg",
+        "background_image": "https://i.pinimg.com/236x/03/86/26/038626a1a258dabcb7b7010618bf2d35.jpg"
+    },
+    {
+        "name": "Green Arrow",
+        "real_name": "Oliver Queen",
+        "powers": [
+            "Master archer",
+            "Expert tactician",
+            "Peak human condition"
+        ],
+        "weaknesses": [
+            "Human vulnerabilities",
+            "Limited ammunition"
+        ],
+        "affiliation": "Justice League",
+        "first_appearance": "More Fun Comics #73",
+        "profile_image": "https://i.pinimg.com/236x/25/75/83/2575835edaac87ccf01a4bbcb1c711f5.jpg",
+        "background_image": "https://i.pinimg.com/236x/22/02/29/22022925749304a0b9e57debdd097aec.jpg"
+    }
+]
