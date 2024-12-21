@@ -75,7 +75,12 @@ Follow these steps to run the application locally:
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here.*
+<img src = "https://github.com/user-attachments/assets/86628b07-219d-4b43-9881-5f8639636008" height = "400em">
+<img src = "https://github.com/user-attachments/assets/adfca823-f33d-45c8-8e5c-ce6e78a5d893" height = "400em">
+<img src = "https://github.com/user-attachments/assets/795d49f1-81e7-429e-b089-d8f6906d7436" height = "400em">
+<img src = "https://github.com/user-attachments/assets/14a9c4ce-166f-46e8-b1c8-a7aad28b478b" height = "400em">
+<img src = "https://github.com/user-attachments/assets/905794a8-0bad-4ff7-af26-f8afd6700af3" height = "400em">
+
 
 ---
 
